@@ -87,7 +87,7 @@ function pageChange() {
   { getClass_header: document.getElementsByClassName('checkout-success'), pageURL: "./component/checkout-success.html", pageClass: 'checkout-success' }
  ];
  //首頁
- menuIn(8);
+ menuIn(0);
  //選單分頁切換
  for (let i = 0; i < 4; i++) {
   // if (i > 0) {
