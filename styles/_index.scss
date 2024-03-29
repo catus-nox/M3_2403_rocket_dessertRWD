@@ -586,20 +586,20 @@ main {
      }
 
      .title {
-      background-image: url(../img/lg-為什麼選擇了做甜點.svg);
+      background-image: url(https://raw.githubusercontent.com/catus-nox/M3_2403_rocket_dessertRWD/main/img/lg-為什麼選擇了做甜點.svg);
 
       @include mobile() {
-       background-image: url(../img/sm-橫式-為什麼選擇了做甜點.svg);
+       background-image: url(https://raw.githubusercontent.com/catus-nox/M3_2403_rocket_dessertRWD/main/img/sm-橫式-為什麼選擇了做甜點.svg);
       }
      }
     }
 
     &:nth-child(2) {
      .title {
-      background-image: url(../img/lg-為什麼一定要吃甜點.svg);
+      background-image: url(https://raw.githubusercontent.com/catus-nox/M3_2403_rocket_dessertRWD/main/img/lg-為什麼一定要吃甜點.svg);
 
       @include mobile() {
-       background-image: url(../img/sm-橫式-為什麼一定要吃甜點.svg);
+       background-image: url(https://raw.githubusercontent.com/catus-nox/M3_2403_rocket_dessertRWD/main/img/sm-橫式-為什麼一定要吃甜點.svg);
       }
      }
     }
@@ -696,7 +696,7 @@ main {
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
-    background-image: url(../img/lg-想吃甜點是不需要理由的.svg);
+    background-image: url(https://raw.githubusercontent.com/catus-nox/M3_2403_rocket_dessertRWD/main/img/lg-想吃甜點是不需要理由的.svg);
     width: 4.5rem;
     height: 16.4rem;
     margin: 4rem auto;
@@ -705,7 +705,7 @@ main {
      margin: 1.5rem auto;
      width: 226px;
      height: 60px;
-     background-image: url(../img/sm-橫式-想吃甜點是不需要理由的.svg);
+     background-image: url(https://raw.githubusercontent.com/catus-nox/M3_2403_rocket_dessertRWD/main/img/sm-橫式-想吃甜點是不需要理由的.svg);
     }
    }
 
@@ -1734,7 +1734,7 @@ main {
 
       select {
        appearance: none;
-       background-image: url(../img/sorting.svg);
+       background-image: url(https://raw.githubusercontent.com/catus-nox/M3_2403_rocket_dessertRWD/main/img/sorting.svg);
        background-repeat: no-repeat;
        background-position: right 0.8rem top 50%;
        background-size: 1.5rem auto;
